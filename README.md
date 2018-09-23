@@ -1,5 +1,5 @@
-# wp-plugin-job-manager-file-upload
-WordPress Plugin Job Manager File Upload
+# WordPress Plugin Job Manager File Upload
+Tool for WordPress Plugin Job Manager File Upload Exploit
 
 ---
 
